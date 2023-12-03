@@ -1,21 +1,24 @@
-# Currency Converter
+# React Todo App
 
-This is a  Currency Converter web application built usin Tailwind Css React JS.It allows users to convert currency from one country to another using up-to-date exchange rates.  
+A simple todo application built with React.js and Vite.
 
 ## Features
 
-- Currency conversion between different countries.
-- Real-time exchange rates using an API.
-- Select countries and currencies from a comprehensive list.
-- User-Friendly and responsive design with Tailwid CSS.
+- Add , edit and remove tasks
+- Mark tasks as complete
+- Filter tasks based on status (All, Active, Completed)
 
-## Prerequisites
+## Technologies Used
 
-Before you begin, ensure you have met the following requirements:
-- Node.js installed on your computer.
+- React.js
+- Vite
 
-### Installation
+## Getting Started
 
-Clone the repository:
+### installation
 
-git clone https://github.com/SanjanaSahani/CurrencyConverter-Reactjs
+install - node.js
+npm create vite@latest
+npm install
+cd React-ToDoApp
+npm run dev
