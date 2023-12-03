@@ -1,3 +1,4 @@
-import InputBox from './InputBox'
+import TodoForm from "./TodoForm";
+import TodoItem from "./TodoItem";
 
-export {InputBox}
+export {TodoForm, TodoItem}
